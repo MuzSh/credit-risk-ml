@@ -1,4 +1,4 @@
-## Simple machine learning model to predict credit worthiness of Potential    
+## machine learning model/analysis to predict credit worthiness of potential applicants for respective bank
 
 >**Custom Features**:
 <ol>
